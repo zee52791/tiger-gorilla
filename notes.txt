@@ -1,0 +1,68 @@
+why git?
+
+    - Version Control System
+
+    - Collaborate with other programers
+
+        - using other people's code, open source software
+
+        - in your teams, hobby projects, to work projects 
+
+            - 'live coding' code merging tool 
+
+            - being the rookie on the team and getting your bearings and ultimately contributing to codebase
+
+       Key Utility
+        - getting other people code 
+        - contributing your own code 
+
+Commands:
+
+    git status- 
+        Takes no actions; never hurts to run it. 
+        can run anywhere inside the git repo (not just root)
+    
+    git init
+
+        only run once at begining (build local repository)
+        creates a new git repo locally 
+
+
+    git add 
+
+        git add <filename>
+
+        adds file(s) to Staging
+
+    git commit -m "commit msg" 
+
+
+
+
+
+
+Terms 
+
+    repository 
+
+        - local
+        - remote
+
+    root
+
+
+
+    Staging 
+
+        - move a file into "green" from "red"
+    
+    track - whether or not to keep track of modification to file
+        - only once do you have to track it 
+
+    git credential manager (GCM)
+        - will cache our username/password
+
+    git - version control, cli program 
+
+
+    github - a way to admin remote repos for sharing 
